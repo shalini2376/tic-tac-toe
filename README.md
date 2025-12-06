@@ -16,7 +16,7 @@ This project focuses on implementing basic game logic and DOM manipulation.
 - JavaScript (Vanilla)
 
 ## Screenshot
-![game_screenshot](tic-tac-toe.png)
+![game_screenshot](tic_tac_toe.png)
 
 ## ▶️ How to Run Locally
 
